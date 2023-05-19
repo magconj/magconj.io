@@ -1,2 +1,2 @@
-# magconj.io
+# magconj
 Programming Portfolio
